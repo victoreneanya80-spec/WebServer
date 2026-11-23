@@ -1,0 +1,10 @@
+# Maven build output
+target/
+
+# NetBeans per-user files
+nb-configuration.xml
+
+# OS junk
+.DS_Store
+Thumbs.db
+
